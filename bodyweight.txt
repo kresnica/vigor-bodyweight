@@ -1,7 +1,6 @@
 21. 2. 2018
 
 !! ogrevanje: 
-
 - vrtenje odročenih rok dlani gor-dol
 - roke skupaj narazen
 - scare push-upi
@@ -9,29 +8,24 @@
 - downward dog-plank 5x
 
 !! circuit 1 (2x): 
-
 - 8x počep s 8kg kettlom na prstih
 - 6x vsaka noga: one-leg deadlift (8kg kettle)
 - 30s: leže, z dvignjenimi stegnjenimi nogami (če daš višje je lažje) držiš kettle izza glave, dol kolikor gre (podobno pod kotom kot noge). 
 
 !! circuit 2 (3x, izmenjaje v paru, drugi ima vmes pavzo): 
-
 - 10x throwov 5kg rdeče žoge izza glave
 - ena dolžina velike telovadnice poskokov
 - nazaj greš v bear walku
 
 !! circuit 3 (4x, izmenjaje v paru, drugi ima vmes pavzo): 
-
 - navezani skupaj vijolična in zelena elastika na konstrukcijo. Daš si vijolični konec okoli pasu in tečeš cca 3 metre (tam si pripraviš 5kg rdečo žogo), izmenjuješ začetne noge, 4x vsaka noga
 - 10x iz počepa in žoge pri prsih vstaneš z žogo nad glavo
 
 !! circuit 4 (8 min): 
-
 - 8x thrusti (kot burpee jump, ampak brez sklece: spustiš se na tla, poskočiš v plank in nazaj na ploska stopala, vstaneš)
 - med temi 8 thrusti drugi iz para dela rowe na krogcih (ali pa chin-upe: se dviguje z brado čez veso)
 
 !! ohlajanje: 
-
 - s pomočjo konstrukcije: greš v počep z ritjo precej nazaj in z nogami precej naprej, z roko se nad glavo držiš konstrukcije in čutiš raztezanje po vsej strani hrbta tiste roke, kjer držiš
 - z bokom proti konstrukciji, nasprotno roko stegneš in se oprimeš stebra, si v obliki črke C oziroma skupaj s konstrukcijo D. 
 - se spustiš dol, roke dvignjene, primeš konstrukcijo, glavo spustiš na prsnico, dihaš.
@@ -42,7 +36,6 @@
 26. 2. 2018
 
 !! ogrevanje: 
-
 - nizek skipping
 - srednji skipping
 - visok skipping
@@ -77,19 +70,16 @@ Vmes se probaš čim hitreje zamenjati.
 
 28. 2. 2018
 
-!! ogrevanje: 
-
+!! ogrevanje:
 - predklon na eni nogi (kot za v one-leg deadlift), ena dolžina velike telovadnice
 - 4 koraki bear walka, 4x iz planka v downward doga, ponavljaš za eno dolžino
 - desno nogo predse, jo v desno rotiraš okoli sebe za 270 stopinj. Imaš levo nogo obrnjeno naprej, desno imaš na levi od leve noge, obrnjeno s prsti proti desni. Greš z desnim kolenom do tal (kot izpadni korak), nato od tam vstaneš (se zarotiraš v desno). Ponoviš z levo nogo. Ena dolžina telovadnice.
 
 !! circuit 1 (2x)
-
 - 15x rakova hoja s črno elastiko: precej na široko stopiš na elastiko, zgornji konec primeš (razteguješ) z rokami. Delaš drobne korake 15x v desno, nato še v levo.
 - 15x rdeča elastika čez konstrukcijo, v predklonu poteguješ komolce k sebi vzporedno z ravnino glave (delajo lopatice). 
 
 !! circuit 2 (3x)
-
 - mečeš 4kg črno žogo z leve strani zarotiraš na sredo in zabrišeš v tla (dela core). Potem z desne. 5+5
 - poskoki naprej (ena dolžina) 
 - 5 sklec 
@@ -113,22 +103,18 @@ Vmes se probaš čim hitreje zamenjati.
 7. 3. 2018
 
 !! ogrevanje
-
 - razne vaje s palico: vrtenje okoli leve/desne rame, naprej-nazaj ...
 
 !! circuit 1 (2x) 
-
 - ležiš na tleh, zarotiraš medenico in stisneš trebuh (tako da se trebuh odlepi od tal), držiš palico nad glavo (roke kot 90 stopinj), dviguješ roke s palico nazaj (komolci na tleh) 12x
 - izpadni korak naprej, na koncu se zasukaš proti "izpadnjeni" nogi 6+6
 
 !! circuit 2 (8 min) 
-
 - bear walk eno dolžino telovadnice
 - 12x rdeča elastika okoli konstrukcije, komolce poteguješ k glavi (jih imaš v xy-ravnini glave ves čas), ko spuščaš elastiko, spuščaš o iztegnjenih komolcev
 - nazaj se sprehodiš
 
 !! circuit 3 (8 min) 
-
 - 8 počepov po 4 sekunde z 8 kg utežjo
 - 40 s plank na eni roki (pazi, da je medenica naravnost in ne zasukana)
 
@@ -137,7 +123,6 @@ Vmes se probaš čim hitreje zamenjati.
 - 40 s rowov (običajnih) s komolci ob telesu
 
 !! ohlajanje 
-
 - v glavnem za noge
 - desno nogo čez levo, roke na tleh, rame na tleh, gledaš v desno. Zamenjaš stran. 
 - sediš, ena noga iztegnjena, druga čeznjo s stopalom pri kolenu prve noge, se zasukaš čez to pokrčeno nogo. 
@@ -237,3 +222,10 @@ Vmes se probaš čim hitreje zamenjati.
 - na eni nogi zabijaš 4 kg črno žogo v tla, 8+8
 - row z eno roko, 4+4
 - "nepremični trebušnjaki": ležiš, noge pravokotno, roke na golenici, lopatice od tal, se poskusiš dotaknit stopal. 8x
+
+!! ohlajanje 
+- ležiš, noge na tleh, rame ves čas na tleh, ena noga čez drugo, zasukaš se v nasprotno smer. 
+- zunanja stegenska mišica, leže v številki 4
+- sede, stegneš nogo, drugo prekrižaš čez, se zasukaš skupaj z njo (se nasloniš na koleno)
+- metuljček
+- mermaid poza z metuljčkom: ena roka čez glavo, dlan obrneš navzgor, komolec rahlo pokrčiš, pogledaš za roko
